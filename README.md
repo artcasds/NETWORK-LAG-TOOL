@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bener.jpg" width="100%" alt="Network Lag Tool"/>
+  <img src="bener.png" width="100%" alt="Network Lag Tool"/>
 </p>
 
 <h1 align="center">⚡ NETWORK LAG TOOL</h1>
