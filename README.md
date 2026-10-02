@@ -36,7 +36,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/network-lag-tool.git
+https://github.com/artcasds/NETWORK-LAG-TOOL
 cd network-lag-tool
 
 # Install dependencies
